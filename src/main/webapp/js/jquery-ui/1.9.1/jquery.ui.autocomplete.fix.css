@@ -1,0 +1,9 @@
+.ui-autocomplete {
+	background: white;
+	border: 1px solid;
+}
+
+.ui-autocomplete .ui-menu-item:hover {
+	color: white;
+	background: blue;
+}
