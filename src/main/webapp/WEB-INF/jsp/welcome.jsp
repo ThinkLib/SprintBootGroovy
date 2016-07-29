@@ -8,11 +8,11 @@
 <body>
 	<c:url value="/resources/text.txt" var="url"/>
 	Time: ${time}
-	<br>
+	<br><br>
 	JSTL URL: ${url}
-	<br>
-	Message: ${message}
-    
+	<br><br>
+	Hello : ${message}
+    <br><br>
     <table border="1">
         <tbody>
             <tr>
